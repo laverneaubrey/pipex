@@ -1,0 +1,15 @@
+   1   ??  Ss     6:18.47 /sbin/launchd
+  400   ??  Ss     0:00.05 /usr/bin/macreport
+  436   ??  Ss     0:52.98 /usr/sbin/syslogd
+  437   ??  Ss     0:03.16 /usr/libexec/UserEventAgent (System)
+  440   ??  Ss     0:06.05 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+  441   ??  Ss     0:01.88 /usr/libexec/kextd
+  442   ??  Ss     0:55.50 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+  444   ??  Ss     0:00.27 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+  447   ??  Ss     0:00.26 /System/Library/CoreServices/appleeventsd --server
+  448   ??  Ss     0:15.48 /usr/sbin/systemstats --daemon
+  450   ??  Ss     0:10.27 /usr/libexec/configd
+  451   ??  Ss    16:53.26 /usr/bin/telegraf
+  452   ??  Ss     2:45.04 /usr/local/KeyboardChecker/KeyboardChecker syslog.kzn.21-school.ru:514
+  453   ??  Ss     0:07.14 /System/Library/CoreServices/powerd.bundle/powerd
+  454   ??  Ss     1:52.37 /usr/local/macrepor
